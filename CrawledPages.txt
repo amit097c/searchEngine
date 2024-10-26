@@ -1,0 +1,17 @@
+https://www.bbc.com/
+https://www.bbc.co.uk/sounds
+https://www.bbc.co.uk/accessibility/
+https://account.bbc.com/account
+https://www.bbc.co.uk/usingthebbc/account/help-signing-in?action=sign-in&clientId=Account&context=international&isCasso=false&lang=ar-SA&nonce=wf5tRgYH-A9BMc6O1vlUX_EsTx-zTJT3Wky0&ptrt=https%3A%2F%2Faccount.bbc.com%2Faccount&realm=%2F&redirectUri=https%3A%2F%2Fsession.bbc.com%2Fsession%2Fcallback%3Frealm%3D%2F&sequenceId=7a8cedf7-ede2-43f8-828b-38287e436315&service=IdSignInService
+https://www.bbc.com/weather
+https://www.bbc.com/sport/football/live/cd11vdnwwjdt
+https://account.bbc.com/account?lang=en-GB&ptrt=https://www.bbc.com/sport/football/live/cd11vdnwwjdt&userOrigin=SPORT_GNL
+https://www.bbc.co.uk/usingthebbc/account/help-signing-in?action=sign-in&clientId=Account&context=international&isCasso=false&lang=en-GB&nonce=G2PA9bf2-OiJ0c18P3-ccnokD4_5d-WemP0w&ptrt=https%3A%2F%2Faccount.bbc.com%2Faccount%3Flang%3Den-GB%26ptrt%3Dhttps%3A%2F%2Fwww.bbc.com%2Fsport%2Ffootball%2Flive%2Fcd11vdnwwjdt%26userOrigin%3DSPORT_GNL&realm=%2F&redirectUri=https%3A%2F%2Fsession.bbc.com%2Fsession%2Fcallback%3Frealm%3D%2F&sequenceId=6020fcd7-9e66-4d42-8844-9616af988b50&service=IdSignInService
+https://www.ctvnews.ca/
+https://www.ctv.ca
+https://www.ctvnews.ca/canada
+https://www.cicnews.com/
+https://www.cicnews.com/about.html
+https://www.cicnews.com/partners
+https://www.media.canadavisa.com/
+https://www.media.canadavisa.com/services
